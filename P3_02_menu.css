@@ -1,0 +1,160 @@
+body{
+    margin:0px;
+    font-family: "Roboto";
+  } 
+  main{
+    margin:0px;
+    background-color: #f6f6f6;
+  }
+  
+  * {
+    box-sizing: border-box;
+    object-fit: cover;
+  }
+  
+  #container{
+  
+    max-width: 1400px;
+    justify-content:center;
+  }
+  
+  
+  h1{
+      text-align: center;
+      font-weight:100;
+      font-size: 30px;
+      margin:0px;
+      margin-top: 10px;
+  }
+  
+  header, .big-title{
+    font-family: 'Shrikhand';
+  }
+  
+  .header_logo{
+    background-color:white;
+    box-shadow: 20px 20px 20px #d6d4d4;
+  }  
+
+  .picture{
+    width: 100%;
+    height: :50px;
+    }
+
+
+    .big-title{
+        font-size:30px;
+        margin-left: 15px;
+    }
+
+    .Title_one{
+        font-size: 20px;
+        font-weight:390;
+        margin-left: 15px;
+        padding-top: 20px;
+    }
+
+
+.section_menu{
+border-radius: 50px 50px 0 0;
+background-color: #f6f6f6;
+padding: 5px 10px 40px 10px;
+position: relative;
+top: -50px;
+}
+
+.card_plat{
+display: flex;
+justify-content: space-between;
+height: 80px;
+background-color: #fff;
+border-radius: 0.75rem;
+margin: 20px;
+box-shadow: 0.25rem 0.25rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+
+.plat__title{
+    font-size: 20px;
+    margin: 15px 0px 5px 15px;
+}
+
+
+.description{
+font-size: 18px;
+margin: 5px 0 0 15px;
+}
+.price{
+  position: absolute;
+  right: 40px;
+  font-weight: bold;
+    font-size: 20px;
+}
+
+.block{
+    display: flex;
+}
+
+.boutton{
+    border-radius: 50px;
+    border: none;
+    border-radius: 50px;
+    border: none;
+    width: 50%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#9356DC, #FF79DA);
+    color:white;
+    }
+
+
+    .centrer-boutton{
+
+    display: flex;
+     justify-content: center;
+     padding-top: 30px;
+    }
+
+           /*fooooooooooooooooooooooooooter*/
+    .footer-title{
+      margin-top: 0;
+    color: white;
+    margin-left: 1rem;
+     font-family: "Shrikhand"
+    }
+                
+
+         footer{
+        .padding:1rem;
+         width:100%;
+        }
+                   
+           
+   
+    .pied2page{
+    background-color: #333333;
+    margin: 0;
+    width:100%;
+    padding:1rem;
+            }
+           
+     footer a{
+     color: white;
+    padding: 1rem;
+    text-decoration: none;
+        }
+         
+        .fa, .fas{
+            color: white;
+        }
+    
+        .décaler{
+            margin-left:1rem;
+        }
+
+
+ .décaler,.mention, .contact{
+     margin-bottom:0.5rem;
+ }
